@@ -1,11 +1,9 @@
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
-==========================================================================================================================================
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello there :wave: ! </h1>
 
-
-My name is Matheus Ferro. I work as a Software engineer at Zup I.T Innovation.
-
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=matheusferro&repo=matheusferro&countColorcountColor)
+- My name is Matheus Ferro. 
+- Living in Brazil :brazil:
+- I work as a Software engineer at Zup I.T Innovation.
 
 ### Analytics ⚙️
 
