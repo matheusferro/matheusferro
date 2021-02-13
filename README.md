@@ -9,8 +9,8 @@ My name is Matheus Ferro. I work as a Software engineer at Zup I.T Innovation.
 
 ### Analytics ⚙️
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusferro&layout=compact&count_private=true)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusferro&layout=compact&count_private=true&theme=dracula)
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=matheusferro&count_private=true&show_icons=true)
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=matheusferro&count_private=true&show_icons=true&theme=dracula)
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=matheusferro&hide_border=true)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=matheusferro&hide_border=true&theme=dracula)
