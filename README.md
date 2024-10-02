@@ -4,7 +4,3 @@
 - My name is Matheus Ferro. 
 - Living in Brazil :brazil:
 - I work as a Software engineer at Zup I.T Innovation.
-
-### Analytics ⚙️
-
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusferro&layout=compact&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
