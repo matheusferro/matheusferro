@@ -3,4 +3,4 @@
 
 - My name is Matheus Ferro. 
 - Living in Brazil :brazil:
-- I work as a Software engineer at Zup I.T Innovation.
+- I work as a Software engineer at Mercado Livre.
